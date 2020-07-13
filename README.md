@@ -1,4 +1,23 @@
-### Hi there 👋
+### Hi, I’m Luka! 👋
+
+📣
+I am a full stack software engineer working in a distributed team for a large international company as well as a lead engineer helping launch a Swiss startup.
+
+🔨
+My specialties are **Angular**, **NgRx**, **.NET Core**, and **SQL Server**
+
+🌱
+... but have recently started getting interested in **Node.js** and **React** as well!
+
+⚡
+Highly committed to code quality and minimalist design.
+
+📫
+You can reach me at: luka@lukastanisic.com
+
+📋
+For more info visit lukastanisic.com
+
 
 <!--
 **luka-stanisic/luka-stanisic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
