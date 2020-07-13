@@ -16,7 +16,7 @@ Highly committed to code quality and minimalist design.
 You can reach me at: luka@lukastanisic.com
 
 📋
-For more info visit lukastanisic.com
+For more info visit https://lukastanisic.com
 
 
 <!--
