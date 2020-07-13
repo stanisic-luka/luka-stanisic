@@ -1,7 +1,7 @@
 ### Hi, I’m Luka! 👋
 
 📣
-I am a full stack software engineer working in a distributed team for a large international company as well as a lead engineer helping launch a Swiss startup.
+I am a full stack engineer working in a distributed team for a large international company and a lead engineer helping launch a Swiss startup.
 
 🔨
 My specialties are **Angular**, **NgRx**, **.NET Core**, and **SQL Server**
