@@ -1,5 +1,6 @@
 ### Hi, I’m Luka! 👋
 
+<!--
 📣
 I am a full stack engineer working in a distributed team for a large international company and a lead engineer helping launch a Swiss startup.
 
@@ -11,6 +12,7 @@ My specialties are **Angular**, **NgRx**, **.NET Core**, and **SQL Server**
 
 ⚡
 Highly committed to code quality and minimalist design.
+-->
 
 📫
 You can reach me at: luka@lukastanisic.com
