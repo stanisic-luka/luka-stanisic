@@ -10,9 +10,15 @@ My specialties are **Angular**, **NgRx**, **.NET Core**, and **SQL Server**
 🌱
 ... but have recently started getting interested in **Node.js** and **React** as well!
 
+
+-->
+
+
+📣
+Current company gitHub: https://github.com/stanisic-luka
+
 ⚡
 Highly committed to code quality and minimalist design.
--->
 
 📫
 You can reach me at: luka@lukastanisic.com
